@@ -3,7 +3,7 @@ body {
 }
 h1 {
   background-color:#C70039;
-  font-color:#fff;
+  color:#fff;
   font: georgia;
   font-size:50px;
   position: center;
@@ -11,6 +11,6 @@ h1 {
   font-weight: bold;
 }
 p {
-  color:#fff;
+  color:#000;
   font-weight: bold;
 }
