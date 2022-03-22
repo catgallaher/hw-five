@@ -16,9 +16,12 @@ p {
   font-weight: bold;
 }
 a {
-  background-color:#FFC300;
   color:#808080;
 }
-.no {
-  background-color:none;
+.border {
+  border-style: dotted;
+}
+.border2 {
+  border-style: solid;
+  border-color:#FF5733;
 }
